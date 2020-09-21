@@ -64,7 +64,7 @@ sudo apt install httpie # ubuntu일 경우
 4. [unit test](https://github.com/aisolab/flask101/wiki/08-4.-unit-test)
 5. [pytest](https://github.com/aisolab/flask101/wiki/08-5.-pytest)
 6. [미니터 API unit test](https://github.com/aisolab/flask101/wiki/08-6.-%EB%AF%B8%EB%8B%88%ED%84%B0-API-unit-test)
-7. [unit test의 중요성]()
+7. unit test의 중요성
 ### 09. AWS에 배포하기
 ### 10. API 아키텍쳐
 ### 11. 파일 업로드 엔드포인트
