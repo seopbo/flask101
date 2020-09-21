@@ -53,7 +53,18 @@ sudo apt install httpie # ubuntu일 경우
 5. [API에 데이터베이스 연결하기](https://github.com/aisolab/flask101/wiki/06-5.-API%EC%97%90-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EC%97%B0%EA%B2%B0%ED%95%98%EA%B8%B0)
 6. [SQLAlchemy를 사용하여 API와 데이터베이스 연결하기](https://github.com/aisolab/flask101/wiki/06-6.-SQLAlchemy%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EC%97%AC-API%EC%99%80-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EC%97%B0%EA%B2%B0%ED%95%98%EA%B8%B0)
 ### 07. 인증
+1. [인증](https://github.com/aisolab/flask101/wiki/07-1.-%EC%9D%B8%EC%A6%9D)
+2. [인증 엔드포인트 구현하기](https://github.com/aisolab/flask101/wiki/07-2.-%EC%9D%B8%EC%A6%9D-%EC%97%94%EB%93%9C%ED%8F%AC%EC%9D%B8%ED%8A%B8-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0)
+3. [인증 절차를 다른 엔드포인트에 적용하기](https://github.com/aisolab/flask101/wiki/07-3.--%EC%9D%B8%EC%A6%9D-%EC%A0%88%EC%B0%A8%EB%A5%BC-%EB%8B%A4%EB%A5%B8-%EC%97%94%EB%93%9C%ED%8F%AC%EC%9D%B8%ED%8A%B8%EC%97%90-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0)
+4. [샘플 프론트엔드 시스템](https://github.com/aisolab/flask101/wiki/07-4.-%EC%83%98%ED%94%8C-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%8B%9C%EC%8A%A4%ED%85%9C)
 ### 08. unit test
+1. [테스트 자동화의 중요성](https://github.com/aisolab/flask101/wiki/08-1.-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%9E%90%EB%8F%99%ED%99%94%EC%9D%98-%EC%A4%91%EC%9A%94%EC%84%B1)
+2. [UI test / End-to-End test](https://github.com/aisolab/flask101/wiki/08-2.-UI-test---End-To-End-test)
+3. [integration test](https://github.com/aisolab/flask101/wiki/08-3.-integration-test)
+4. [unit test](https://github.com/aisolab/flask101/wiki/08-4.-unit-test)
+5. [pytest](https://github.com/aisolab/flask101/wiki/08-5.-pytest)
+6. [미니터 API unit test](https://github.com/aisolab/flask101/wiki/08-6.-%EB%AF%B8%EB%8B%88%ED%84%B0-API-unit-test)
+7. [unit test의 중요성]()
 ### 09. AWS에 배포하기
 ### 10. API 아키텍쳐
 ### 11. 파일 업로드 엔드포인트
