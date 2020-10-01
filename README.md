@@ -66,6 +66,16 @@ sudo apt install httpie # ubuntu일 경우
 6. [미니터 API unit test](https://github.com/aisolab/flask101/wiki/08-6.-%EB%AF%B8%EB%8B%88%ED%84%B0-API-unit-test)
 7. unit test의 중요성
 ### 09. AWS에 배포하기
+따로 정리할 필요 없음. 책을 보고 따라해볼 것! 
+1. AWS
+2. RDS
+3. 미니터 API 배포
+4. load balancer
+5. AWS Resource Clean up
+  
+- 참고
+  - https://github.com/aisolab/flask101_deploy_test
+  - https://github.com/rampart81/python-backend-book/tree/master/chapter7
 ### 10. API 아키텍쳐
 ### 11. 파일 업로드 엔드포인트
 ### 12. 더 좋은 백엔드 개발자가 되기위해 다음으로 배워보면 좋은 주제들
