@@ -77,5 +77,22 @@ sudo apt install httpie # ubuntu일 경우
   - https://github.com/aisolab/flask101_deploy_test
   - https://github.com/rampart81/python-backend-book/tree/master/chapter7
 ### 10. API 아키텍쳐
+1. [코드 구조의 중요성](https://github.com/aisolab/flask101/wiki/10-1.-%EC%BD%94%EB%93%9C-%EA%B5%AC%EC%A1%B0%EC%9D%98-%EC%A4%91%EC%9A%94%EC%84%B1)
+2. [레이어드 패턴](https://github.com/aisolab/flask101/wiki/10-2.-%EB%A0%88%EC%9D%B4%EC%96%B4%EB%93%9C-%ED%8C%A8%ED%84%B4)
+3. [레이어드 아키텍처 적용하기](https://github.com/aisolab/flask101/wiki/10-3.-%EB%A0%88%EC%9D%B4%EC%96%B4%EB%93%9C-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0)
+4. [전체 코드 구조와 app.py](https://github.com/aisolab/flask101/wiki/10-4.-%EC%A0%84%EC%B2%B4-%EC%BD%94%EB%93%9C-%EA%B5%AC%EC%A1%B0%EC%99%80-app.py-%ED%8C%8C%EC%9D%BC)
+5. [unit test](https://github.com/aisolab/flask101/wiki/10-5.-unit-test)
+6. View Unit Test (5에 내용 포함)
 ### 11. 파일 업로드 엔드포인트
+1. [사용자 프로파일 사진 업로드 엔드포인트](https://github.com/aisolab/flask101/wiki/11-1.-%EC%82%AC%EC%9A%A9%EC%9E%90-%ED%94%84%EB%A1%9C%ED%8C%8C%EC%9D%BC-%EC%82%AC%EC%A7%84-%EC%97%85%EB%A1%9C%EB%93%9C-%EC%97%94%EB%93%9C%ED%8F%AC%EC%9D%B8%ED%8A%B8)
+2. [프로파일 이미지 파일 업로드 엔드포인트](https://github.com/aisolab/flask101/wiki/11-2.-%ED%94%84%EB%A1%9C%ED%8C%8C%EC%9D%BC-%EC%9D%B4%EB%AF%B8%EC%A7%80-%ED%8C%8C%EC%9D%BC-%EC%97%85%EB%A1%9C%EB%93%9C-%EC%97%94%EB%93%9C%ED%8F%AC%EC%9D%B8%ED%8A%B8)
+3. [프로파일 이미지 GET 엔드포인트]()
+4. AWS S3에 이미지 파일 저장하기
+5. CDN
+6. AWS S3
+7. AWS S3 생성 및 설정
+8. AWS IAM 사용자 생성
+9. 파일 업로드 엔드포인트를 S3와 연동하기
+10. unit test
+11. 배포
 ### 12. 더 좋은 백엔드 개발자가 되기위해 다음으로 배워보면 좋은 주제들
