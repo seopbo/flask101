@@ -60,11 +60,5 @@ class UserService:
 
         return self.user_dao.save_profile_picture(image_url, user_id)
 
-    # local
-    # def save_profile_picture(self, picture, filename, user_id):
-    #     profile_pic_path_and_name = os.path.join(self.config["UPLOAD_DIRECTORY"], filename)  # 1
-    #     picture.save(profile_pic_path_and_name)  # 2
-    #     return self.user_dao.save_profile_picture(profile_pic_path_and_name, user_id)  # 3
-
     def get_profile_picture(self, user_id):
         return self.user_dao.get_profile_picture(user_id)

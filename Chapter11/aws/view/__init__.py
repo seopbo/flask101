@@ -156,13 +156,3 @@ def create_endpoints(app, services):
             return jsonify({'img_url': profile_picture})
         else:
             return '', 404
-
-    # local
-    # @app.route('/profile-picture/<int:user_id>', methods=['GET'])  # 1
-    # def get_profile_picture(user_id):
-    #     profile_picture = user_service.get_profile_picture(user_id)  # 2
-    #
-    #     if profile_picture:  # 3
-    #         return send_file(profile_picture)
-    #     else:
-    #         return '', 404
