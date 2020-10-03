@@ -84,11 +84,12 @@ sudo apt install httpie # ubuntu일 경우
 5. [unit test](https://github.com/aisolab/flask101/wiki/10-5.-unit-test)
 6. View Unit Test (5에 내용 포함)
 ### 11. 파일 업로드 엔드포인트
+11-6 ~ 11-11에서는 코드만 반영, 내용은 책을 보고 숙지 및 따라할 것
 1. [사용자 프로파일 사진 업로드 엔드포인트](https://github.com/aisolab/flask101/wiki/11-1.-%EC%82%AC%EC%9A%A9%EC%9E%90-%ED%94%84%EB%A1%9C%ED%8C%8C%EC%9D%BC-%EC%82%AC%EC%A7%84-%EC%97%85%EB%A1%9C%EB%93%9C-%EC%97%94%EB%93%9C%ED%8F%AC%EC%9D%B8%ED%8A%B8)
 2. [프로파일 이미지 파일 업로드 엔드포인트](https://github.com/aisolab/flask101/wiki/11-2.-%ED%94%84%EB%A1%9C%ED%8C%8C%EC%9D%BC-%EC%9D%B4%EB%AF%B8%EC%A7%80-%ED%8C%8C%EC%9D%BC-%EC%97%85%EB%A1%9C%EB%93%9C-%EC%97%94%EB%93%9C%ED%8F%AC%EC%9D%B8%ED%8A%B8)
-3. [프로파일 이미지 GET 엔드포인트]()
-4. AWS S3에 이미지 파일 저장하기
-5. CDN
+3. [프로파일 이미지 GET 엔드포인트](https://github.com/aisolab/flask101/wiki/11-3.-%ED%94%84%EB%A1%9C%ED%8C%8C%EC%9D%BC-%EC%9D%B4%EB%AF%B8%EC%A7%80-GET-%EC%97%94%EB%93%9C%ED%8F%AC%EC%9D%B8%ED%8A%B8)
+4. [AWS S3에 이미지 파일 저장하기](https://github.com/aisolab/flask101/wiki/11-4.-AWS-S3%EC%97%90-%EC%9D%B4%EB%AF%B8%EC%A7%80-%ED%8C%8C%EC%9D%BC-%EC%A0%80%EC%9E%A5%ED%95%98%EA%B8%B0)
+5. [CDN](https://github.com/aisolab/flask101/wiki/11-5.-CDN)
 6. AWS S3
 7. AWS S3 생성 및 설정
 8. AWS IAM 사용자 생성
@@ -96,3 +97,8 @@ sudo apt install httpie # ubuntu일 경우
 10. unit test
 11. 배포
 ### 12. 더 좋은 백엔드 개발자가 되기위해 다음으로 배워보면 좋은 주제들
+1. 자료구조 및 알고리즘
+2. 데이터베이스의 더 깊은 이해
+3. database migration
+4. micro service architecture
+5. 리눅스 & 데브옵스
