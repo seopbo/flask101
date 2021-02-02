@@ -3,7 +3,7 @@ attrs==19.3.0
 Automat==20.2.0
 backcall==0.1.0
 bcrypt==3.2.0
-bleach==3.1.5
+bleach==3.3.0
 cffi==1.14.2
 click==7.1.2
 constantly==15.1.0
