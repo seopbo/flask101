@@ -54,7 +54,7 @@ protobuf==3.11.3
 ptyprocess==0.6.0
 py==1.9.0
 pycparser==2.20
-Pygments==2.6.1
+Pygments==2.7.4
 PyHamcrest==2.0.2
 PyJWT==1.7.1
 pyparsing==2.4.7
