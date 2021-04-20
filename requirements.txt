@@ -52,7 +52,7 @@ prometheus-client==0.7.1
 prompt-toolkit==3.0.5
 protobuf==3.11.3
 ptyprocess==0.6.0
-py==1.9.0
+py==1.10.0
 pycparser==2.20
 Pygments==2.6.1
 PyHamcrest==2.0.2
