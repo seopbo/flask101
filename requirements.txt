@@ -74,7 +74,7 @@ toml==0.10.1
 tornado==6.0.4
 traitlets==4.3.3
 Twisted==20.3.0
-urllib3==1.25.10
+urllib3==1.26.5
 wcwidth==0.1.9
 webencodings==0.5.1
 Werkzeug==1.0.1
