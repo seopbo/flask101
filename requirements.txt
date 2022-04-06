@@ -73,7 +73,7 @@ testpath==0.4.4
 toml==0.10.1
 tornado==6.0.4
 traitlets==4.3.3
-Twisted==20.3.0
+Twisted==22.2.0
 urllib3==1.25.10
 wcwidth==0.1.9
 webencodings==0.5.1
